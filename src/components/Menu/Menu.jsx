@@ -11,8 +11,8 @@ const Menu = () => {
       {numPizzas > 0 ? (
         <>
           <p>
-            Authentic Italian cuisine. 6 creative dishes to choose from. All from our
-            stone oven, all organic, all delicious.
+            Authentic Italian cuisine. 6 creative dishes to choose from. All
+            from our stone oven, all organic, all delicious.
           </p>
           <Pizza pizza={pizzas} />
         </>
